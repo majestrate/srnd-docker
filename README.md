@@ -95,3 +95,12 @@ step 3) restart srnd
 ### removing outfeeds
 
     rm -f 'data/data/config/hooks/outfeeds/xxx.onion:119'
+
+
+## administration
+
+to moderate your frontend go to http://yourfrontend.onion/moderate/
+
+use the *SECRET* part of the tripcode
+
+explore the login panel and get used to stuff
