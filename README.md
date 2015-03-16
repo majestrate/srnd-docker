@@ -22,7 +22,9 @@ to get the onion address for others to add in their outfeeds, this is sensitive 
     cat data/nntp/hostname
 
 
-## **STOP** Read this
+**STOP**
+
+# Read this
 
 you **MUST** generate a tripcode for administration reasons
 
