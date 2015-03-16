@@ -1,6 +1,6 @@
-HiddenServiceDir /srnd/http
+HiddenServiceDir /srnd/root/http
 HiddenServicePort 80 127.0.0.1:80
-HiddenServiceDir /srnd/nntp
+HiddenServiceDir /srnd/root/nntp
 HiddenServicePort 119 127.0.0.1:119
 RunAsDaemon 1
 ClientOnly 1
