@@ -1,0 +1,6 @@
+#start_param sync_on_startup=True
+#start_param proxy_type=socks5
+#start_param proxy_ip=127.0.0.1
+#start_param proxy_port=9050
+ctl
+overchan.*
