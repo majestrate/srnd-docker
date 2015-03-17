@@ -7,6 +7,12 @@ docker automagic node setup for SRNd and overchan, omgwtfbbq
 * docker
 * gnu make
 
+
+## obtaining
+
+    git clone --recursive git://github.com/majestrate/srnd-docker
+    cd srnd-docker
+
 ## building
 
 to make and deploy a new unconfigured overchan node 
