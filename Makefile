@@ -9,4 +9,5 @@ run: build
 	docker run --name overchan -v $(PWD)/data:/srnd/root -w /srnd/root srnd /srnd/run.sh
 
 clean:
+	docker kill overchan
 	docker rm overchan
