@@ -106,3 +106,10 @@ to moderate your frontend go to http://yourfrontend.onion/moderate/
 use the *SECRET* part of the tripcode
 
 explore the login panel and get used to stuff
+
+
+## tips
+
+    # have overview be the index page
+    cd data/data/plugins/overchan/out
+    ln -s overview.html index.html
